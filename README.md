@@ -165,7 +165,7 @@ House price predictor with GUI/
 ### 1. Clone / Download
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/house-price-predictor.git
+git clone https://github.com/fadifadifadifadifadi157-glitch/house-price-predictor.git
 cd house-price-predictor
 ```
 
