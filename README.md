@@ -1,4 +1,4 @@
-# 🏡 House Price Predictor
+# 🏡 PriceWise_AI-House Price Predictor
 
 <div align="center">
 
