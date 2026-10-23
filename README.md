@@ -9,7 +9,7 @@
 
 **An end-to-end Machine Learning web app** that predicts house sale prices using a hyperparameter-tuned Gradient Boosting model trained on the Ames Housing dataset.
 
-[✨ Live Demo](#-live-demo) • [🚀 Quick Start](#-quick-start) • [📐 Architecture](#-project-architecture) • [📊 Model Results](#-model-results)
+[✨ Live Demo](#-https://pricewiseai.streamlit.app/) • [🚀 Quick Start](#-quick-start) • [📐 Architecture](#-project-architecture) • [📊 Model Results](#-model-results)
 
 </div>
 
